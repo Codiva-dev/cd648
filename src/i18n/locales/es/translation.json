@@ -131,8 +131,14 @@
     "punto21": "<strong>OBJETOS PERSONALES.</strong> La propiedad no se hace responsable por objetos personales perdidos, olvidados o dañados dentro de la habitación o de las áreas comunes.",
     "punto22": "<strong>RESCISIÓN DEL HOSPEDAJE.</strong> El establecimiento se reserva el derecho de dar por terminado el servicio de hospedaje sin derecho a reembolso cuando exista incumplimiento grave a este reglamento o a las disposiciones legales aplicables.",
     "suplementarios": "Artículos complementarios",
-    "reservaciones": "<strong>RESERVACIONES.</strong> Constituye la \"reservación de Cuarto\", un contrato preparatorio del hospedaje que se perfecciona cuando la negociación acepta y confirma por escrito la solicitud del huésped y éste ratifica su petición cumpliendo las obligaciones que le fueron fijadas...",
-    "cancelaciones": "<strong>CANCELACIONES.</strong> El solicitante que cancele su reservación de tipo individual, tiene derecho a que le sea devuelto el importe del depósito que hubiere hecho cuando la cancelación llegue al conocimiento de la empresa del hotel con 24 horas de anticipación..."
+    "reservaciones": "<strong>RESERVACIONES.</strong> Constituye la \"reservación de Cuarto\", un contrato preparatorio del hospedaje que se perfecciona cuando la negociación acepta y confirma por escrito la solicitud del huésped y éste ratifica su petición cumpliendo las obligaciones que le fueron fijadas. Salvo pacto diverso, se entiende como requisitos necesarios para el perfeccionamiento del acto de reservación, el depósito por adelantado del importe del alojamiento solicitado con la anticipación y en las condiciones que establezca el hotel. Cuando el depósito que garantiza la reservación se hace remitiendo giro postal, telegráfico, bancario o cualquier otra forma de remesa, se condiciona la aceptación del depósito al hecho de quedar alojamientos disponibles en la negociación en el mismo momento que ésta reciba dicho depósito. La Empresa quedará en libertad de asignarlas a otros clientes. Si por causas ajenas a la empresa del hotel esta en la imposibilidad de atender la reservación del huésped, tratará de lograr alojamiento para el solicitante en cualquier otra empresa hotelera de análoga categoría.",
+    "cancelaciones": "<strong>CANCELACIONES.</strong> El solicitante que cancele su reservación de tipo individual, tiene derecho a que le sea devuelto el importe del depósito que hubiere hecho cuando la cancelación llegue al conocimiento de la empresa del hotel con 24 horas de anticipación a la fecha comprometida. El solicitante que no hiciere uso del alojamiento en la fecha reservada, o no hiciera llegar a la empresa su cancelación con 24 horas de anticipación como mínimo, perderá en principio el importe de su depósito, salvo que, por consideraciones de equidad, la negociación estimara en una menor cuantía los perjuicios sufridos. Para los casos de reservaciones de cinco o más habitaciones se efectuará un contrato entre ambas partes que cubra perfectamente cualquier eventualidad."
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Página no encontrada",
+    "message": "La ruta que buscas no existe o fue movida.",
+    "home": "Volver al inicio"
   },
   "concierge": {
     "title": "Concierge",

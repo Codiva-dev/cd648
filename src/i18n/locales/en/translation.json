@@ -134,6 +134,12 @@
     "reservaciones": "<strong>RESERVATIONS.</strong> A room reservation constitutes a preliminary lodging contract, perfected when the hotel confirms in writing the guest’s request and the guest fulfills their obligations. Unless otherwise agreed, a deposit is required to confirm the reservation under the hotel’s terms. If the deposit is made by postal, bank, or other remittance, acceptance depends on room availability at the time of receipt. The hotel is free to assign rooms to other clients. If the hotel cannot honor a reservation due to circumstances beyond its control, it will attempt to arrange accommodation at another similar establishment.",
     "cancelaciones": "<strong>CANCELLATIONS.</strong> Individual reservation cancellations made at least 24 hours in advance will receive a refund of the deposit. If the guest fails to arrive or cancel with less than 24 hours’ notice, the deposit is forfeited unless the hotel, for fairness, deems the damage to be less. For reservations of five or more rooms, a contract will be made between both parties to cover all contingencies."
   },
+  "notFound": {
+    "code": "404",
+    "title": "Page not found",
+    "message": "The page you’re looking for doesn’t exist or has been moved.",
+    "home": "Back to home"
+  },
   "concierge": {
     "title": "Concierge",
     "cleaning": "Housekeeping",
